@@ -1,0 +1,124 @@
+[
+  {
+    "id": "free-10",
+    "name": "أصول التربية الإسلامية",
+    "icon": "book",
+    "url": "https://drive.google.com/drive/folders/1ahJ4-U8T8o-bmfUTSUPqA_camtu-rXFw?usp=drive_link"
+  },
+  {
+    "id": "free-1",
+    "name": "الإحسان",
+    "icon": "heart",
+    "url": "https://drive.google.com/drive/folders/143pswceVUH8tPvIyPUvXGby3sHpRxRV5?usp=drive_link"
+  },
+  {
+    "id": "free-17",
+    "name": "الرياضة في حياتنا",
+    "icon": "sport",
+    "url": "https://drive.google.com/drive/folders/1XnqViTBWbcrBt-eIJgCmLox6LVqNEiFO?usp=drive_link"
+  },
+  {
+    "id": "free-2",
+    "name": "القرآن الكريم وتلاوته",
+    "icon": "book",
+    "url": "https://drive.google.com/drive/folders/1gcA2YgZTH1Mw_a_vSs4nm277nlQn8PiY?usp=drive_link"
+  },
+  {
+    "id": "free-5",
+    "name": "اللغة الإنجليزية (1)",
+    "icon": "language",
+    "url": "https://drive.google.com/drive/folders/1Hh52B2OpwpI6dvquOVDK1dEUxIwS0qOX?usp=drive_link"
+  },
+  {
+    "id": "free-4",
+    "name": "اللغة العربية (1)",
+    "icon": "language",
+    "url": "https://drive.google.com/drive/folders/1w5YZgw7vZFzkIl6qOhhQPTrkE7YEzx-w?usp=drive_link"
+  },
+  {
+    "id": "free-7",
+    "name": "التربية الوطنية",
+    "icon": "flag",
+    "url": "https://drive.google.com/drive/folders/1t2LYH9jmaIRBthEsxhEApMpsR76Tt1zs?usp=drive_link"
+  },
+  {
+    "id": "free-19",
+    "name": "الثقافة الرقمية",
+    "icon": "computer",
+    "url": "https://drive.google.com/drive/folders/1N3lXoQKQUaKh2_WsxsW4-acot-X0seES?usp=drive_link"
+  },
+  {
+    "id": "free-8",
+    "name": "الريادة والابتكار",
+    "icon": "bulb",
+    "url": "https://drive.google.com/drive/folders/1x9TDkkjQmbrmE-yH3XrICUwrC0vSWox_?usp=drive_link"
+  },
+  {
+    "id": "free-3",
+    "name": "السيرة النبوية",
+    "icon": "book",
+    "url": "https://drive.google.com/drive/folders/1TnSVVCix4UoOk6qcFawTHqVi1kI6oipk?usp=drive_link"
+  },
+  {
+    "id": "free-18",
+    "name": "الصحة والتغذية",
+    "icon": "heart",
+    "url": "https://drive.google.com/drive/folders/101cTJJ8wnhoMPAuvw53MNOXOyt5O5SaT?usp=drive_link"
+  },
+  {
+    "id": "free-6",
+    "name": "العلوم العسكرية",
+    "icon": "shield",
+    "url": "https://drive.google.com/drive/folders/1yE-5i2qKgvqD2BDaIJIYqBDQCM_HsHJu?usp=drive_link"
+  },
+  {
+    "id": "free-13",
+    "name": "القانون في حياتنا",
+    "icon": "scales",
+    "url": "https://drive.google.com/drive/folders/1dOkashE6INWqMOA-NRdzpFAdCWrKlPk1?usp=drive_link"
+  },
+  {
+    "id": "free-9",
+    "name": "الإعجاز العلمي في القرآن والسنة",
+    "icon": "science",
+    "url": "https://drive.google.com/drive/folders/1v6WuGCkmrnovlRQlClfz9UPdBx2wtvF5?usp=drive_link"
+  },
+  {
+    "id": "free-0",
+    "name": "المدخل إلى العقيدة الإسلامية",
+    "icon": "book",
+    "url": "https://drive.google.com/drive/folders/1wH9DutyFh9tHX0fB8jqCtBhpjpERrGDr?usp=drive_link"
+  },
+  {
+    "id": "free-12",
+    "name": "المهارات الحياتية",
+    "icon": "bulb",
+    "url": "https://drive.google.com/drive/folders/1Zs62SRNWh6XLwnMFxbpUOXKcA80_Wwst?usp=drive_link"
+  },
+  {
+    "id": "free-14",
+    "name": "نظام الأسرة والمجتمع",
+    "icon": "people",
+    "url": "https://drive.google.com/drive/folders/1PVyh_rR8BkqCQBFU0_4z1YSg4w_HVfni?usp=drive_link"
+  },
+  {
+    "id": "free-11",
+    "name": "قضايا معاصرة",
+    "icon": "chat"
+  },
+  {
+    "id": "free-15",
+    "name": "حضارة الإسلام",
+    "icon": "landmark"
+  },
+  {
+    "id": "free-16",
+    "name": "القيادة والمسؤولية الاجتماعية",
+    "icon": "people"
+  },
+  {
+    "id": "free-20",
+    "name": "التنمية والبيئة",
+    "icon": "leaf"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "تحليل البيانات",
+    "desc": "Python · Pandas · عرض البيانات",
+    "id": "r-uOLxNrNk8",
+    "icon": "chart"
+  },
+  {
+    "name": "تطوير الويب",
+    "desc": "HTML · CSS · بناء صفحات الويب",
+    "id": "dX8396ZmSPk",
+    "icon": "code"
+  },
+  {
+    "name": "قواعد البيانات وSQL",
+    "desc": "الاستعلامات · تنظيم البيانات",
+    "id": "HXV3zeQKqGY",
+    "icon": "database"
+  },
+  {
+    "name": "Git والعمل على المشاريع",
+    "desc": "إدارة الإصدارات · التعاون",
+    "id": "zTjRZNkhiEU",
+    "icon": "network"
+  },
+  {
+    "name": "البرمجة باستخدام Python",
+    "desc": "أساسيات البرمجة · مشاريع تطبيقية",
+    "id": "oDOw5tB3Udw",
+    "icon": "code"
+  }
+]

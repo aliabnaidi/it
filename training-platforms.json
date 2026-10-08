@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org/",
+    "color": "#54a8ff",
+    "mark": "C",
+    "desc": "دورات من الجامعات والشركات ومسارات مهنية",
+    "tags": [
+      "تقنية المعلومات",
+      "علوم البيانات"
+    ]
+  },
+  {
+    "name": "Udemy",
+    "url": "https://www.udemy.com/",
+    "color": "#ad6cff",
+    "mark": "U",
+    "desc": "دورات عملية لتعلّم مهارات متنوعة وتطويرها",
+    "tags": [
+      "البرمجة",
+      "تطوير المهارات"
+    ]
+  },
+  {
+    "name": "edX",
+    "url": "https://www.edx.org/",
+    "color": "#45e5ff",
+    "mark": "edX",
+    "desc": "دورات وبرامج تعليمية من مؤسسات أكاديمية",
+    "tags": [
+      "علوم الحاسوب",
+      "التعلّم الأكاديمي"
+    ]
+  },
+  {
+    "name": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/",
+    "color": "#69b8ff",
+    "mark": "in",
+    "desc": "دورات لتطوير المهارات التقنية والمهنية",
+    "tags": [
+      "المهارات المهنية",
+      "التقنية"
+    ]
+  },
+  {
+    "name": "Pluralsight",
+    "url": "https://www.pluralsight.com/",
+    "color": "#ff8c64",
+    "mark": "PS",
+    "desc": "تدريب تقني لتطوير مهارات العمل في التكنولوجيا",
+    "tags": [
+      "البرمجة",
+      "الحوسبة السحابية"
+    ]
+  }
+]

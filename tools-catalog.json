@@ -1,0 +1,98 @@
+[
+  {
+    "name": "أدوات الأمن السيبراني",
+    "color": "#ad6cff",
+    "tools": [
+      [
+        "Wireshark",
+        "تحليل حركة الشبكات",
+        "https://www.wireshark.org/download.html",
+        "network"
+      ],
+      [
+        "Nmap",
+        "استكشاف الشبكات",
+        "https://nmap.org/download.html",
+        "radar"
+      ],
+      [
+        "Burp Suite Community",
+        "اختبار تطبيقات الويب",
+        "https://portswigger.net/burp/communitydownload",
+        "shield"
+      ]
+    ]
+  },
+  {
+    "name": "أدوات البرمجة",
+    "color": "#42d79c",
+    "tools": [
+      [
+        "Visual Studio Code",
+        "محرر الأكواد",
+        "https://code.visualstudio.com/download",
+        "code"
+      ],
+      [
+        "Git",
+        "إدارة إصدارات المشاريع",
+        "https://git-scm.com/downloads/",
+        "branch"
+      ],
+      [
+        "Python",
+        "لغة البرمجة وأدواتها",
+        "https://www.python.org/downloads/",
+        "code"
+      ]
+    ]
+  },
+  {
+    "name": "كالي لينكس وأدواته",
+    "color": "#54a8ff",
+    "tools": [
+      [
+        "Kali Linux",
+        "النظام ونسخه الرسمية",
+        "https://www.kali.org/get-kali/",
+        "terminal"
+      ],
+      [
+        "Metasploit Framework",
+        "مختبرات اختبار الأمان",
+        "https://www.kali.org/tools/metasploit-framework/",
+        "shield"
+      ],
+      [
+        "John the Ripper",
+        "تدقيق قوة كلمات المرور",
+        "https://www.kali.org/tools/john/",
+        "key"
+      ]
+    ]
+  },
+  {
+    "name": "أدوات تكنولوجيا المعلومات",
+    "color": "#f5ad35",
+    "tools": [
+      [
+        "Docker Desktop",
+        "بيئات التطبيقات والحاويات",
+        "https://www.docker.com/products/docker-desktop/",
+        "box"
+      ],
+      [
+        "VirtualBox",
+        "تشغيل الأنظمة الافتراضية",
+        "https://www.virtualbox.org/wiki/Downloads",
+        "computer"
+      ],
+      [
+        "Postman",
+        "تطوير واختبار واجهات API",
+        "https://www.postman.com/downloads/",
+        "api"
+      ]
+    ]
+  }
+]

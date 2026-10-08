@@ -1,0 +1,666 @@
+[
+  {
+    "order": 1,
+    "name": "الرياضيات المتقطعة",
+    "url": "https://drive.google.com/drive/folders/1p6XxlniOGd5sPwrxmsXFQH68aKYgwsDB?usp=drive_link",
+    "matches": [
+      "الرياضيات المتقطعة"
+    ]
+  },
+  {
+    "order": 2,
+    "name": "برمجة الأجهزة المتنقلة والذكية — Android",
+    "url": "https://drive.google.com/drive/folders/18qiDKxdmL2FYDZ-LCA83NqAC_2zhb_R0?usp=drive_link",
+    "matches": [
+      "برمجة الأجهزة المتنقلة والذكية — Android"
+    ]
+  },
+  {
+    "order": 3,
+    "name": "التفاضل والتكامل",
+    "url": "https://drive.google.com/drive/folders/1hvf0vjhGGmYGY55rbpa9eKRw9rykdYW9?usp=drive_link",
+    "matches": [
+      "الثقافة والتكامل",
+      "التفاضل والتكامل"
+    ]
+  },
+  {
+    "order": 4,
+    "name": "قواعد البيانات",
+    "url": "https://drive.google.com/drive/folders/1mDs9X1wlMDc4vFLzoHmJv8V00KQJC48C?usp=drive_link",
+    "matches": [
+      "قواعد البيانات",
+      "قواعد بيانات"
+    ]
+  },
+  {
+    "order": 5,
+    "name": "قواعد البيانات (Dr.Ali)",
+    "url": "https://drive.google.com/drive/folders/1tNz0Itngqvtq--nsMQnjRqfTaQN9OPgb?usp=drive_link",
+    "matches": [
+      "قواعد البيانات",
+      "قواعد بيانات"
+    ]
+  },
+  {
+    "order": 6,
+    "name": "مبادئ التراسل",
+    "url": "https://drive.google.com/drive/folders/1q7CVezvavBjYSFRSJRVP5HfNGR9e7VTf?usp=drive_link",
+    "matches": [
+      "مبادئ تراسل البيانات والشبكات"
+    ]
+  },
+  {
+    "order": 7,
+    "name": "تراكيب البيانات والخوارزميات",
+    "url": "https://drive.google.com/drive/folders/1eZNkYlxhNNJW-sjClbqdaeNon3gcKRmq?usp=drive_link",
+    "matches": [
+      "تراكيب البيانات والخوارزميات"
+    ]
+  },
+  {
+    "order": 8,
+    "name": "أساسيات البرمجة — Java 1",
+    "url": "https://drive.google.com/drive/folders/1EAb_tESZjL0pmRGXaiE0IiyvqkBSYiMj?usp=drive_link",
+    "matches": [
+      "أساسيات البرمجة"
+    ]
+  },
+  {
+    "order": 9,
+    "name": "البرمجة الموجهة للكائنات — Java 2",
+    "url": "https://drive.google.com/drive/folders/1IEx965rYVW9uaQnqOtxMsXm2yif6JaM8?usp=drive_link",
+    "matches": [
+      "البرمجة الموجهة للكائنات"
+    ]
+  },
+  {
+    "order": 10,
+    "name": "البرمجة المرئية — Java 3",
+    "url": "https://drive.google.com/drive/folders/1M_-_9OOj4S9FFX8uVVLJ4ipLro2Cqnt1?usp=drive_link",
+    "matches": [
+      "البرمجة المرئية"
+    ]
+  },
+  {
+    "order": 11,
+    "name": "لينكس",
+    "url": "https://drive.google.com/drive/folders/1-XpOYFauiS2o7GY-y87RaJfmhSVqkLvS?usp=drive_link",
+    "matches": [
+      "نظم تشغيل لينكس"
+    ]
+  },
+  {
+    "order": 12,
+    "name": "نمذجة البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1IZi-q9lEYmb6zVyLp-cu33nrzpNyNJPr?usp=drive_link",
+    "matches": [
+      "بنية ونمذجة البرمجيات"
+    ]
+  },
+  {
+    "order": 13,
+    "name": "شبكات الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1Tysfme80zl9nJrpXjUBjWHGz2MxsHLOe?usp=drive_link",
+    "matches": [
+      "شبكات الحاسوب"
+    ]
+  },
+  {
+    "order": 14,
+    "name": "مواصفات ومتطلبات البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1BlV_JspALTgqkj6-M0VncCuQ1EiOkdiF?usp=drive_link",
+    "matches": [
+      "مواصفات ومتطلبات البرمجيات"
+    ]
+  },
+  {
+    "order": 15,
+    "name": "أساسيات هندسة البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1jDmbjx3IOTnB04_jhCNI17uRdjELhblf?usp=drive_link",
+    "matches": [
+      "تأسيسات هندسة البرمجيات"
+    ]
+  },
+  {
+    "order": 16,
+    "name": "الكتابة التقنية",
+    "url": "https://drive.google.com/drive/folders/1Cxo9xTu9NkzdrsNLC-yPbt24x0k9ulEp?usp=drive_link",
+    "matches": [
+      "الكتابة التقنية"
+    ]
+  },
+  {
+    "order": 17,
+    "name": "نظرية الحاسبات",
+    "url": "https://drive.google.com/drive/folders/1BVtP2LwILjipVo3xIjy7qW0emtSJXM9g?usp=drive_link",
+    "matches": [
+      "نظرية الحاسبات"
+    ]
+  },
+  {
+    "order": 18,
+    "name": "أساسيات تكنولوجيا المعلومات",
+    "url": "https://drive.google.com/drive/folders/1F8o2e5xeTvZF0KolCNbIRc0ns8NDlDrY?usp=drive_link",
+    "matches": [
+      "تأسيسات تكنولوجيا"
+    ]
+  },
+  {
+    "order": 19,
+    "name": "أمن الشبكات",
+    "url": "https://drive.google.com/drive/folders/14uM15W-XMQgr-dZQWaviJrB7I0sj8yZA?usp=drive_link",
+    "matches": [
+      "أمن الشبكات"
+    ]
+  },
+  {
+    "order": 20,
+    "name": "أمن المعلومات",
+    "url": "https://drive.google.com/drive/folders/1P-6V328ua5KaucKrZL-dwuXXS0nFJddf?usp=drive_link",
+    "matches": [
+      "أمن المعلومات"
+    ]
+  },
+  {
+    "order": 21,
+    "name": "إحصاء واحتمالات",
+    "url": "https://drive.google.com/drive/folders/1GfEGF4gLoDbltNpaO_v2zMqnew82O5qK?usp=drive_link",
+    "matches": [
+      "احتمالات وإحصاء"
+    ]
+  },
+  {
+    "order": 22,
+    "name": "إدارة نظم قواعد البيانات",
+    "url": "https://drive.google.com/drive/folders/1SIQLSkAUyjdCbdHXrFe_c1eLJFOWOJOI?usp=drive_link",
+    "matches": [
+      "إدارة نظم قواعد البيانات"
+    ]
+  },
+  {
+    "order": 23,
+    "name": "نظم الاسترجاع",
+    "url": "https://drive.google.com/drive/folders/139G9RGl4j2DX5kzw5JZDzJm-4T1wVQGy?usp=drive_link",
+    "matches": [
+      "نظم الاسترجاع"
+    ]
+  },
+  {
+    "order": 24,
+    "name": "لغة التجميع — Assembly",
+    "url": "https://drive.google.com/drive/folders/1SdvfrlqETjUceenRX2bTU41gzuO8aznF?usp=drive_link",
+    "matches": [
+      "لغة التجميع — Assembly"
+    ]
+  },
+  {
+    "order": 25,
+    "name": "التشفير وأمن الحاسوب",
+    "url": "https://drive.google.com/drive/folders/14WkN_ERmNN6zACYlxf_1ZQM_wDi5TZ4o?usp=drive_link",
+    "matches": [
+      "التشفير وأمن الحاسوب"
+    ]
+  },
+  {
+    "order": 26,
+    "name": "الثقافة الرقمية",
+    "url": "https://drive.google.com/drive/folders/1eeS1ZVZ_rQeEUCuPgl3AjXLO0H24K_Rb?usp=drive_link",
+    "matches": [
+      "الثقافة الرقمية"
+    ]
+  },
+  {
+    "order": 27,
+    "name": "الجبر الخطي",
+    "url": "https://drive.google.com/drive/folders/126_y9p_SRdoTAT3REC0FqTvbT6bJywXs?usp=drive_link",
+    "matches": [
+      "الجبر الخطي"
+    ]
+  },
+  {
+    "order": 28,
+    "name": "الريادة والابتكار",
+    "url": "https://drive.google.com/drive/folders/1LIGqZcEdj0xeHV-zSHJm7fwiGl_vYPUx?usp=drive_link",
+    "matches": [
+      "الريادة والابتكار"
+    ]
+  },
+  {
+    "order": 29,
+    "name": "الرياضيات والجبر الخطي",
+    "url": "https://drive.google.com/drive/folders/1obgS0Vki-V_BtBXkJVhSMT-3rqbUUjTr?usp=drive_link",
+    "matches": [
+      "الجبر الخطي"
+    ]
+  },
+  {
+    "order": 30,
+    "name": "برمجة تطبيقات الإنترنت",
+    "url": "https://drive.google.com/drive/folders/1jplyN8U5vxDrG9FDLoTEpWkaFfVMbwla?usp=drive_link",
+    "matches": [
+      "برمجة تطبيقات الإنترنت"
+    ]
+  },
+  {
+    "order": 31,
+    "name": "بروتوكولات الشبكات",
+    "url": "https://drive.google.com/drive/folders/1s66TuV9NSVqRXnx4kc0iCSOHyPuCYapK?usp=drive_link",
+    "matches": [
+      "بروتوكولات الشبكات"
+    ]
+  },
+  {
+    "order": 32,
+    "name": "التحليل العددي",
+    "url": "https://drive.google.com/drive/folders/1yI7wcFA3B-ooauvzQo0XdTXMyE_-3lM2?usp=drive_link",
+    "matches": [
+      "التحليل العددي"
+    ]
+  },
+  {
+    "order": 33,
+    "name": "تحليل وتصميم النظم",
+    "url": "https://drive.google.com/drive/folders/1IavQ6zLIW37TKDkhnm4xWk5nvE4-k1Ti?usp=drive_link",
+    "matches": [
+      "تحليل وتصميم النظم"
+    ]
+  },
+  {
+    "order": 34,
+    "name": "تراكيب البيانات",
+    "url": "https://drive.google.com/drive/folders/11UJ7i6sPHuNNqOaRqlKqLn-dB3zmE6VO?usp=drive_link",
+    "matches": [
+      "تراكيب البيانات"
+    ]
+  },
+  {
+    "order": 35,
+    "name": "تصميم المنطق الرقمي",
+    "url": "https://drive.google.com/drive/folders/1-EPAoC27hoL7hEVoTSKxSUBIej0jXbsb?usp=drive_link",
+    "matches": [
+      "تصميم المنطق الرقمي"
+    ]
+  },
+  {
+    "order": 36,
+    "name": "تطوير البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1jP-thACu4s4jmSimlrf6U5WujTjujlk-?usp=drive_link",
+    "matches": [
+      "تطوير البرمجيات وتوثيقها"
+    ]
+  },
+  {
+    "order": 37,
+    "name": "الخوارزميات",
+    "url": "https://drive.google.com/drive/folders/1oV60L2ZtFZXXVDlKJEH7OiccODTaR8_k?usp=drive_link",
+    "matches": [
+      "الخوارزميات"
+    ]
+  },
+  {
+    "order": 38,
+    "name": "الذكاء الاصطناعي",
+    "url": "https://drive.google.com/drive/folders/1pU8SiF4lWQYtFzniw39nSHQDxhk1E9-1?usp=drive_link",
+    "matches": [
+      "الذكاء الاصطناعي"
+    ]
+  },
+  {
+    "order": 39,
+    "name": "شبكات الحاسوب اللاسلكية",
+    "url": "https://drive.google.com/drive/folders/1PKJ0Rj-C_cBZznQT2kVnOi69NS7QyQBg?usp=drive_link",
+    "matches": [
+      "شبكات الحاسوب اللاسلكية"
+    ]
+  },
+  {
+    "order": 40,
+    "name": "فحص البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1-gMI6iRFoStB8iDsVbB_FmF_7a0ki30r?usp=drive_link",
+    "matches": [
+      "فحص البرمجيات"
+    ]
+  },
+  {
+    "order": 41,
+    "name": "لغة برمجة مختارة — Python",
+    "url": "https://drive.google.com/drive/folders/1IDAUO1T98N-ujMQ5o1rTGn6MGE_UbFRD?usp=drive_link",
+    "matches": [
+      "لغة برمجة مختارة"
+    ]
+  },
+  {
+    "order": 42,
+    "name": "لغة برمجة مختارة — VB.Net",
+    "url": "https://drive.google.com/drive/folders/1NZHmQiFINk-kYpDEVpONHUbAvxwQZDdq?usp=drive_link",
+    "matches": [
+      "لغة برمجة مختارة"
+    ]
+  },
+  {
+    "order": 43,
+    "name": "مبادئ الأنظمة متعددة الأوساط",
+    "url": "https://drive.google.com/drive/folders/1OYWeTCT4V1GU0Ecm4_14ecW6rL_dpyOt?usp=drive_link",
+    "matches": [
+      "مبادئ الأنظمة متعددة الأوساط"
+    ]
+  },
+  {
+    "order": 44,
+    "name": "مراقبة الشبكات",
+    "url": "https://drive.google.com/drive/folders/1XKDzQyA-FzNLcv6QTNMm6OgVdK8bnfSP?usp=drive_link",
+    "matches": [
+      "مراقبة الشبكات وتوثيقها"
+    ]
+  },
+  {
+    "order": 45,
+    "name": "معمارية الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1sTGWnXSslXWEDAoAXqYvLNXXkMOPncFf?usp=drive_link",
+    "matches": [
+      "معمارية الحاسوب",
+      "تنظيم ومعمارية الحاسوب"
+    ]
+  },
+  {
+    "order": 46,
+    "name": "مهارات الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1ARukJ6sN80bJ5g8Zq3u_8EAy4b2FTBYx?usp=drive_link",
+    "matches": [
+      "مهارات الحاسوب"
+    ]
+  },
+  {
+    "order": 47,
+    "name": "نظم التشغيل",
+    "url": "https://drive.google.com/drive/folders/1IT-QvVS2uxMWt-V5h1m4oJMxn1VyBZ7i?usp=drive_link",
+    "matches": [
+      "نظم التشغيل",
+      "نظم تشغيل"
+    ]
+  },
+  {
+    "order": 1,
+    "name": "Databases",
+    "url": "https://drive.google.com/drive/folders/1zMkgBUmjHhl2jHdAL8wVllQfE3DHWDcN?usp=drive_link",
+    "matches": [
+      "قواعد البيانات",
+      "قواعد بيانات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 2,
+    "name": "JAVA",
+    "url": "https://drive.google.com/drive/folders/1rumcQzQ5G-R98qeqQemHm4mZuovOlPMk?usp=drive_link",
+    "matches": [
+      "لغة برمجة مختارة"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 3,
+    "name": "تصميم المنطق الرقمي — LOGIC",
+    "url": "https://drive.google.com/drive/folders/1VQDLHDPhP8U1eB-GMjqZxLbcaSiQcuPM?usp=drive_link",
+    "matches": [
+      "تصميم المنطق الرقمي"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 4,
+    "name": "Multimedia",
+    "url": "https://drive.google.com/drive/folders/1GMRgOAF9JoLrkOPT_ZEKkHaGO9QnDz-v?usp=drive_link",
+    "matches": [
+      "مبادئ الأنظمة متعددة الأوساط"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 5,
+    "name": "Python",
+    "url": "https://drive.google.com/drive/folders/1jHTcpXESChlLnFbq7LEvPLFpl-9VeGph?usp=drive_link",
+    "matches": [
+      "لغة برمجة مختارة"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 6,
+    "name": "Syllabus",
+    "url": "https://drive.google.com/drive/folders/18n0hHmkBu8RWpSK1EQskjfamuiaJHUXk?usp=drive_link",
+    "matches": [],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 7,
+    "name": "vb.net",
+    "url": "https://drive.google.com/drive/folders/1fYTSHuI_nsHPSHZR9SCbJtd-WtIvLqnX?usp=drive_link",
+    "matches": [
+      "لغة برمجة مختارة"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 8,
+    "name": "أساسيات هندسة البرمجيات",
+    "url": "https://drive.google.com/drive/folders/1PKjVm5EuiI2YtuqIklJMDIwvXqB9LLO4?usp=drive_link",
+    "matches": [
+      "تأسيسات هندسة البرمجيات",
+      "أساسيات الهندسة"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 9,
+    "name": "إحصاء واحتمالات",
+    "url": "https://drive.google.com/drive/folders/16BzlEjuuRpydsybNU9BKD8rGalX-QSoM?usp=drive_link",
+    "matches": [
+      "احتمالات وإحصاء"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 10,
+    "name": "أساسيات تكنولوجيا المعلومات",
+    "url": "https://drive.google.com/drive/folders/1v_MOZFW25OTMqCVtQronwOMDDEnJ8AE_?usp=drive_link",
+    "matches": [
+      "تأسيسات تكنولوجيا",
+      "أساسيات تكنولوجيا المعلومات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 11,
+    "name": "التحليل العددي",
+    "url": "https://drive.google.com/drive/folders/1NFlrI-FYmL0OSQxbVvkR8ElRQQVTudle?usp=drive_link",
+    "matches": [
+      "التحليل العددي"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 12,
+    "name": "التشفير وأمن الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1Ml2e-Z6A5hK3H5gLZ2CTy5adXQ3pH5N8?usp=drive_link",
+    "matches": [
+      "التشفير وأمن الحاسوب"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 13,
+    "name": "الحاسوب والإنترنت في التعليم",
+    "url": "https://drive.google.com/drive/folders/15kuKDvxvfuxrIygN_O9HeBfVVgrGDwOg?usp=drive_link",
+    "matches": [
+      "الحاسوب والإنترنت في التعليم"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 14,
+    "name": "الحاسوب والإنترنت",
+    "url": "https://drive.google.com/drive/folders/18axhMZvZZAdvC9uLL15ujncJnQtrOFoF?usp=drive_link",
+    "matches": [
+      "الحاسوب والإنترنت"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 15,
+    "name": "برمجة تطبيقات الإنترنت",
+    "url": "https://drive.google.com/drive/folders/1iZboYJPyUEJXTT_a3atIgawdfEF5CyDg?usp=drive_link",
+    "matches": [
+      "برمجة تطبيقات الإنترنت"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 16,
+    "name": "تحليل وتصميم النظم",
+    "url": "https://drive.google.com/drive/folders/1oYzC3bx-s3eQPKtjD0J2Pgykf3Lgijte?usp=drive_link",
+    "matches": [
+      "تحليل وتصميم النظم"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 17,
+    "name": "تراكيب البيانات",
+    "url": "https://drive.google.com/drive/folders/1ytor4QzTUMvFn1oV0yk22vwOQz30F_zI?usp=drive_link",
+    "matches": [
+      "تراكيب البيانات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 18,
+    "name": "تصميم وتنظيم الحاسوب (أسيمبلي)",
+    "url": "https://drive.google.com/drive/folders/10CIDv3TIpvBB9Ts_pihsxSedIwEcxNai?usp=drive_link",
+    "matches": [
+      "تصميم وتنظيم الحاسوب"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 19,
+    "name": "تفاضل وتكامل 1 (كالكولاس)",
+    "url": "https://drive.google.com/drive/folders/1FwQxkUo-L2noeBPprvWe1UguFZMiXP3R?usp=drive_link",
+    "matches": [
+      "الثقافة والتكامل",
+      "التفاضل والتكامل"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 20,
+    "name": "جبر خطي (لينير)",
+    "url": "https://drive.google.com/drive/folders/1Bf6wYoz_qegke_uCNZ_Vj0eeMbhDZ_M7?usp=drive_link",
+    "matches": [
+      "الجبر الخطي"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 21,
+    "name": "خوارزميات",
+    "url": "https://drive.google.com/drive/folders/1As5MZ947-m-e0iA591jWsRfOfUG3bR7k?usp=drive_link",
+    "matches": [
+      "الخوارزميات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 22,
+    "name": "الرياضيات المتقطعة",
+    "url": "https://drive.google.com/drive/folders/1mlvyPdxKcUd0UAFOg9Y9ulRIfzOu_l9j?usp=drive_link",
+    "matches": [
+      "الرياضيات المتقطعة"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 23,
+    "name": "شبكات الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1bwQiHmOHeyGukZGAIrqe0usPU1zfc8zY?usp=drive_link",
+    "matches": [
+      "شبكات الحاسوب"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 24,
+    "name": "كتابة تقنية",
+    "url": "https://drive.google.com/drive/folders/1jycTAVdR9DyqLsZMQCrXj6HAZ5JXNtJ7?usp=drive_link",
+    "matches": [
+      "الكتابة التقنية"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 25,
+    "name": "شبكات لاسلكية",
+    "url": "https://drive.google.com/drive/folders/1sGmjpE3E6k7n_lpNkH5icn-2fuT23GRU?usp=drive_link",
+    "matches": [
+      "شبكات الحاسوب اللاسلكية"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 26,
+    "name": "مبادئ تراسل البيانات",
+    "url": "https://drive.google.com/drive/folders/1D6f_Qx6JkupmEvWzPCO5FydY5cLPej9c?usp=drive_link",
+    "matches": [
+      "مبادئ تراسل البيانات والشبكات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 27,
+    "name": "معمارية الحاسوب",
+    "url": "https://drive.google.com/drive/folders/1tY-cYYKYnjniODQl9JiTHIjfSVnQfo3O?usp=drive_link",
+    "matches": [
+      "معمارية الحاسوب",
+      "تنظيم ومعمارية الحاسوب"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 28,
+    "name": "مهارات الحاسوب 1",
+    "url": "https://drive.google.com/drive/folders/1ixipXRkJ3UULHGZ2grGSA7pAurIgPxe6?usp=drive_link",
+    "matches": [
+      "مهارات الحاسوب"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 29,
+    "name": "نظرية الحاسبات",
+    "url": "https://drive.google.com/drive/folders/1gquwpHXgFUfBeq9O45k03OYPQz5v3r2Q?usp=drive_link",
+    "matches": [
+      "نظرية الحاسبات"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 30,
+    "name": "نظم التجارة الإلكترونية",
+    "url": "https://drive.google.com/drive/folders/16yDk-dWF0B3FIY3SVUjCIw4kAlpG-hBN?usp=drive_link",
+    "matches": [
+      "نظم التجارة الإلكترونية"
+    ],
+    "batch": "01.pdf"
+  },
+  {
+    "order": 31,
+    "name": "نظم التشغيل",
+    "url": "https://drive.google.com/drive/folders/1O_A1AwUQTKoIOOfcfoI8VGnK8PifDAqE?usp=drive_link",
+    "matches": [
+      "نظم التشغيل",
+      "نظم تشغيل"
+    ],
+    "batch": "01.pdf"
+  }
+]
