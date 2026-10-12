@@ -1,0 +1,30 @@
+@font-face{font-family:Thmanyah;src:url('assets/fonts/thmanyahsans-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:Thmanyah;src:url('assets/fonts/thmanyahsans-Medium.woff2') format('woff2');font-weight:500 600;font-style:normal;font-display:swap}
+@font-face{font-family:Thmanyah;src:url('assets/fonts/thmanyahsans-Bold.woff2') format('woff2');font-weight:700 800;font-style:normal;font-display:swap}
+@font-face{font-family:Thmanyah;src:url('assets/fonts/thmanyahsans-Black.woff2') format('woff2');font-weight:900;font-style:normal;font-display:swap}
+body,body *{font-family:Thmanyah,system-ui,sans-serif!important}
+body{line-height:1.85}h1,h2,h3{line-height:1.45}button,input,select,textarea{font-family:Thmanyah,system-ui,sans-serif}
+.cinematic-home .hero h1{font-size:clamp(40px,3.9vw,65px);line-height:1.5;letter-spacing:0}
+.cinematic-home .brand span{letter-spacing:0}.cinematic-home .desktop-nav{font-size:clamp(12px,.95vw,16px)}
+.cinematic-home .whatsapp-community-links{grid-template-columns:repeat(2,minmax(0,1fr));max-width:1100px;margin-inline:auto}
+.raa-launch{font:inherit;color:var(--text);cursor:pointer;text-align:right;width:100%}.raa-launch .community-icon{font-weight:900;font-size:15px;letter-spacing:.5px}.raa-launch-copy{display:flex;flex-direction:column;gap:3px}.raa-launch-copy small{color:var(--muted);font-size:12px}
+.raa-intro{margin:0 0 22px;color:var(--muted);line-height:1.9}.raa-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.raa-link{display:flex;align-items:center;gap:14px;padding:18px;border:1px solid #3c9ad44d;border-radius:15px;background:linear-gradient(135deg,#102c46,#08162b);transition:border-color .2s,transform .2s}.raa-link:hover{border-color:#38c9ff;transform:translateY(-2px)}.raa-link-mark{width:44px;height:44px;display:grid;place-items:center;background:#189fff18;border-radius:12px;color:#66d7ff;font-size:21px;flex-shrink:0}.raa-link strong,.raa-link small{display:block}.raa-link small{color:var(--muted);font-size:12px;margin-top:3px;overflow-wrap:anywhere}.raa-link-arrow{margin-inline-start:auto;color:#62ceff}.raa-contact{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:17px 20px;margin-top:18px;border:1px solid var(--line);border-radius:15px;background:#0b2234}.raa-contact a{color:#68d6ff;font-weight:700}
+@media(max-width:950px){.cinematic-home .desktop-nav{font-size:11px;gap:10px}}
+@media(max-width:720px){.cinematic-home .hero h1{font-size:clamp(30px,8vw,44px)}.cinematic-home .desktop-nav{font-size:14px}.cinematic-home .whatsapp-community-links,.raa-links{grid-template-columns:1fr}.raa-link{padding:15px}.raa-contact{flex-wrap:wrap}.cinematic-home .stats{margin-top:10px}}
+/* Refined typography and translucent community controls. */
+.cinematic-home .hero-label{display:inline-flex;align-items:center;margin-bottom:22px;padding:7px 14px;border:1px solid #86d6ff35;border-radius:30px;background:#70bfff0a;color:#a6d7f0;font-size:12px;line-height:1.7;backdrop-filter:blur(12px)}
+.cinematic-home .hero h1{font-size:clamp(28px,2.25vw,38px);line-height:1.65;font-weight:700;letter-spacing:0;margin-bottom:20px}
+.cinematic-home .hero-copy>p{font-size:clamp(14px,1.05vw,18px);line-height:2;color:#becbdd;margin-bottom:28px}
+.cinematic-home .hero-copy{top:clamp(100px,9vw,152px)}
+.cinematic-home .whatsapp-community-card,.cinematic-home .hero-actions .btn,.raa-link{background:linear-gradient(135deg,rgba(151,203,255,.13),rgba(36,70,107,.07) 55%,rgba(161,208,255,.045));border:1px solid rgba(171,218,255,.24);box-shadow:inset 0 1px 0 rgba(235,249,255,.16),inset 0 -1px 0 rgba(127,187,238,.035),0 14px 32px rgba(0,0,0,.18);backdrop-filter:blur(20px) saturate(145%);-webkit-backdrop-filter:blur(20px) saturate(145%);transition:background .2s,border-color .2s,box-shadow .2s,transform .2s}
+.cinematic-home .whatsapp-community-card{min-height:96px;padding:20px 24px;border-radius:22px;position:relative;overflow:hidden;text-align:right}
+.cinematic-home .whatsapp-community-card:hover,.cinematic-home .hero-actions .btn:hover,.raa-link:hover{background:linear-gradient(135deg,#89cfff26,#32608c18);border-color:#a1dbff77;box-shadow:inset 0 1px 0 #eafaff38,0 16px 35px #0004;transform:translateY(-2px)}
+.cinematic-home .community-icon{width:54px;height:54px;border:1px solid #b7e6ff25;border-radius:16px;background:#b3deff0b;box-shadow:inset 0 1px 0 #ffffff15;color:#8bddff}
+.cinematic-home .whatsapp-community-card strong{font-size:16px;font-weight:700}.raa-launch-copy small{font-size:12px;line-height:1.7;color:#b3c6db}
+.cinematic-home .raa-logo-frame{overflow:hidden;background:#ffffffef;padding:3px;border-color:#ffffff55}.raa-logo{width:100%;height:100%;object-fit:contain;border-radius:12px;display:block}.raa-logo[hidden]{display:none}.raa-logo-fallback{color:#1077bd;font-size:16px}.raa-logo-fallback[hidden]{display:none}
+.cinematic-home .hero-actions .btn{border-radius:15px;min-height:54px;font-size:15px;gap:12px;padding:11px 18px}
+.cinematic-home .hero-actions .btn-primary{border-color:#74d9ff66;background:linear-gradient(125deg,#168ce32e,#21c4ff16);color:#eaf9ff}
+.cinematic-home .stats{background:linear-gradient(120deg,#aacfff0d,#508abe06);border-color:#bfdcff22;box-shadow:inset 0 1px 0 #e1f4ff0f;backdrop-filter:blur(16px)}
+.cinematic-home .stats b{font-size:26px;font-weight:700}.cinematic-home .stats span{font-size:12px}
+@media(max-width:720px){.cinematic-home .hero-copy{top:auto}.cinematic-home .hero h1{font-size:clamp(25px,6.7vw,30px);line-height:1.6}.cinematic-home .hero-label{font-size:11px;margin-bottom:16px}.cinematic-home .hero-copy>p{font-size:14px;line-height:1.95}.cinematic-home .hero-actions .btn{font-size:12px;padding:10px 12px;min-height:49px}.cinematic-home .whatsapp-community-card{min-height:85px;padding:17px 19px;border-radius:19px}.cinematic-home .whatsapp-community-card strong{font-size:15px}.cinematic-home .stats b{font-size:24px}}
+@media(prefers-reduced-motion:reduce){.cinematic-home .whatsapp-community-card:hover,.cinematic-home .hero-actions .btn:hover,.raa-link:hover{transform:none}}
