@@ -28,3 +28,6 @@ body{line-height:1.85}h1,h2,h3{line-height:1.45}button,input,select,textarea{fon
 .cinematic-home .stats b{font-size:26px;font-weight:700}.cinematic-home .stats span{font-size:12px}
 @media(max-width:720px){.cinematic-home .hero-copy{top:auto}.cinematic-home .hero h1{font-size:clamp(25px,6.7vw,30px);line-height:1.6}.cinematic-home .hero-label{font-size:11px;margin-bottom:16px}.cinematic-home .hero-copy>p{font-size:14px;line-height:1.95}.cinematic-home .hero-actions .btn{font-size:12px;padding:10px 12px;min-height:49px}.cinematic-home .whatsapp-community-card{min-height:85px;padding:17px 19px;border-radius:19px}.cinematic-home .whatsapp-community-card strong{font-size:15px}.cinematic-home .stats b{font-size:24px}}
 @media(prefers-reduced-motion:reduce){.cinematic-home .whatsapp-community-card:hover,.cinematic-home .hero-actions .btn:hover,.raa-link:hover{transform:none}}
+
+/* Keep glass controls inexpensive after all theme overrides. */
+.cinematic-home .hero-label,.cinematic-home .whatsapp-community-card,.cinematic-home .hero-actions .btn,.raa-link,.cinematic-home .stats{backdrop-filter:none;-webkit-backdrop-filter:none}

@@ -47,3 +47,25 @@
 .ambient,.logo-glow{display:none}.orbit,.hero-logo,.float-card,.pulse{animation:none!important;filter:none}.hero-art,.hero-logo,.float-card{will-change:auto}.course-btn,.free-course-btn{will-change:auto}
 
 .whatsapp-community-links{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;width:100%;margin-top:10px}.whatsapp-community-card{display:flex;align-items:center;gap:12px;padding:18px 16px;min-height:84px;border:1px solid #25805c;border-radius:18px;background:linear-gradient(140deg,#122a29,#0d1b2b);transition:border-color .2s,background .2s}.whatsapp-community-card:hover{border-color:#65d6a3;background:#142e2b}.community-icon{width:43px;height:43px;flex-shrink:0;display:grid;place-items:center;border-radius:13px;background:#1c71412b;color:#78dfac}.community-icon svg{width:25px;height:25px}.whatsapp-community-card strong{font-size:14px;line-height:1.7}.community-arrow{margin-inline-start:auto;color:#78dfac;font-size:23px}.whatsapp-community-card:focus-visible{outline:2px solid #78dfac;outline-offset:4px}@media(max-width:850px){.whatsapp-community-links{gap:10px}.whatsapp-community-card{padding:14px 10px;gap:8px}.whatsapp-community-card strong{font-size:12px}}@media(max-width:600px){.whatsapp-community-links{grid-template-columns:1fr;margin-top:18px}.whatsapp-community-card{min-height:72px;padding:14px 18px}.whatsapp-community-card strong{font-size:14px}}
+
+/* Compact glass materials: no backdrop blur or expensive card filters. */
+#materials .materials-intro{text-align:center;margin-bottom:18px}
+#materials .materials-eyebrow{font-size:11px;color:var(--muted)}
+#materials .materials-intro h3{font-size:22px;margin:8px 0}
+#materials .materials-legend{max-width:1100px;margin:0 auto 20px;padding:16px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.025);text-align:right}
+#materials .legend-items{display:flex;flex-wrap:wrap;gap:10px 22px;margin-top:10px}
+#materials .legend-items>span{display:flex;align-items:center;gap:8px;font-size:12px}
+#materials .legend-items i{width:10px;height:10px;border-radius:50%;background:var(--swatch);flex:none}
+#materials .materials-legend p{margin:12px 0 0;font-size:11px;color:var(--muted);line-height:1.9}
+#materials .materials-grid{display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:12px;margin:22px auto;max-width:1100px}
+#materials .material-card{display:inline-flex;align-items:center;justify-content:center;gap:10px;width:auto;max-width:100%;min-height:46px;padding:11px 16px;border:1px solid var(--card-accent);border-radius:13px;background:linear-gradient(130deg,rgba(255,255,255,.075),rgba(255,255,255,.015));color:var(--text);box-shadow:inset 0 1px 0 rgba(255,255,255,.08);font-size:13px;font-weight:700;line-height:1.7;text-align:center;transition:background-color .15s;transform:none;backdrop-filter:none;-webkit-backdrop-filter:none}
+#materials .material-card .course-icon{display:flex;flex:none;color:var(--card-accent)}
+#materials .material-card .course-icon svg{width:21px;height:21px}
+#materials .material-dots{display:inline-flex;align-items:center;gap:3px;flex:none}
+#materials .material-dots i{width:4px;height:4px;border-radius:50%}
+#materials .material-card:hover{background-color:rgba(255,255,255,.055);transform:none;box-shadow:inset 0 1px 0 rgba(255,255,255,.08)}
+#materials .material-card:focus-visible{outline:2px solid var(--card-accent);outline-offset:3px}
+/* Keep translucent surfaces light during scrolling. */
+.cinematic-home .hero-label,.cinematic-home .whatsapp-community-card,.cinematic-home .hero-actions .btn,.raa-link,.cinematic-home .stats{backdrop-filter:none;-webkit-backdrop-filter:none}
+.wa-icon{animation:none}
+@media(max-width:720px){#materials .materials-grid{gap:9px}#materials .material-card{font-size:12px;padding:10px 12px;min-height:42px}#materials .materials-legend{padding:14px}}
