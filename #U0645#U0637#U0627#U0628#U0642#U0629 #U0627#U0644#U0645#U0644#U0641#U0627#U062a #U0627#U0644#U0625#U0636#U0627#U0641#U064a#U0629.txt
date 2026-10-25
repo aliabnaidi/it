@@ -1,0 +1,94 @@
+1. Databases
+https://drive.google.com/drive/folders/1zMkgBUmjHhl2jHdAL8wVllQfE3DHWDcN?usp=drive_link
+
+2. JAVA
+https://drive.google.com/drive/folders/1rumcQzQ5G-R98qeqQemHm4mZuovOlPMk?usp=drive_link
+
+3. تصميم المنطق الرقمي — LOGIC
+https://drive.google.com/drive/folders/1VQDLHDPhP8U1eB-GMjqZxLbcaSiQcuPM?usp=drive_link
+
+4. Multimedia
+https://drive.google.com/drive/folders/1GMRgOAF9JoLrkOPT_ZEKkHaGO9QnDz-v?usp=drive_link
+
+5. Python
+https://drive.google.com/drive/folders/1jHTcpXESChlLnFbq7LEvPLFpl-9VeGph?usp=drive_link
+
+6. Syllabus
+https://drive.google.com/drive/folders/18n0hHmkBu8RWpSK1EQskjfamuiaJHUXk?usp=drive_link
+
+7. vb.net
+https://drive.google.com/drive/folders/1fYTSHuI_nsHPSHZR9SCbJtd-WtIvLqnX?usp=drive_link
+
+8. أساسيات هندسة البرمجيات
+https://drive.google.com/drive/folders/1PKjVm5EuiI2YtuqIklJMDIwvXqB9LLO4?usp=drive_link
+
+9. إحصاء واحتمالات
+https://drive.google.com/drive/folders/16BzlEjuuRpydsybNU9BKD8rGalX-QSoM?usp=drive_link
+
+10. أساسيات تكنولوجيا المعلومات
+https://drive.google.com/drive/folders/1v_MOZFW25OTMqCVtQronwOMDDEnJ8AE_?usp=drive_link
+
+11. التحليل العددي
+https://drive.google.com/drive/folders/1NFlrI-FYmL0OSQxbVvkR8ElRQQVTudle?usp=drive_link
+
+12. التشفير وأمن الحاسوب
+https://drive.google.com/drive/folders/1Ml2e-Z6A5hK3H5gLZ2CTy5adXQ3pH5N8?usp=drive_link
+
+13. الحاسوب والإنترنت في التعليم
+https://drive.google.com/drive/folders/15kuKDvxvfuxrIygN_O9HeBfVVgrGDwOg?usp=drive_link
+
+14. الحاسوب والإنترنت
+https://drive.google.com/drive/folders/18axhMZvZZAdvC9uLL15ujncJnQtrOFoF?usp=drive_link
+
+15. برمجة تطبيقات الإنترنت
+https://drive.google.com/drive/folders/1iZboYJPyUEJXTT_a3atIgawdfEF5CyDg?usp=drive_link
+
+16. تحليل وتصميم النظم
+https://drive.google.com/drive/folders/1oYzC3bx-s3eQPKtjD0J2Pgykf3Lgijte?usp=drive_link
+
+17. تراكيب البيانات
+https://drive.google.com/drive/folders/1ytor4QzTUMvFn1oV0yk22vwOQz30F_zI?usp=drive_link
+
+18. تصميم وتنظيم الحاسوب (أسيمبلي)
+https://drive.google.com/drive/folders/10CIDv3TIpvBB9Ts_pihsxSedIwEcxNai?usp=drive_link
+
+19. تفاضل وتكامل 1 (كالكولاس)
+https://drive.google.com/drive/folders/1FwQxkUo-L2noeBPprvWe1UguFZMiXP3R?usp=drive_link
+
+20. جبر خطي (لينير)
+https://drive.google.com/drive/folders/1Bf6wYoz_qegke_uCNZ_Vj0eeMbhDZ_M7?usp=drive_link
+
+21. خوارزميات
+https://drive.google.com/drive/folders/1As5MZ947-m-e0iA591jWsRfOfUG3bR7k?usp=drive_link
+
+22. الرياضيات المتقطعة
+https://drive.google.com/drive/folders/1mlvyPdxKcUd0UAFOg9Y9ulRIfzOu_l9j?usp=drive_link
+
+23. شبكات الحاسوب
+https://drive.google.com/drive/folders/1bwQiHmOHeyGukZGAIrqe0usPU1zfc8zY?usp=drive_link
+
+24. كتابة تقنية
+https://drive.google.com/drive/folders/1jycTAVdR9DyqLsZMQCrXj6HAZ5JXNtJ7?usp=drive_link
+
+25. شبكات لاسلكية
+https://drive.google.com/drive/folders/1sGmjpE3E6k7n_lpNkH5icn-2fuT23GRU?usp=drive_link
+
+26. مبادئ تراسل البيانات
+https://drive.google.com/drive/folders/1D6f_Qx6JkupmEvWzPCO5FydY5cLPej9c?usp=drive_link
+
+27. معمارية الحاسوب
+https://drive.google.com/drive/folders/1tY-cYYKYnjniODQl9JiTHIjfSVnQfo3O?usp=drive_link
+
+28. مهارات الحاسوب 1
+https://drive.google.com/drive/folders/1ixipXRkJ3UULHGZ2grGSA7pAurIgPxe6?usp=drive_link
+
+29. نظرية الحاسبات
+https://drive.google.com/drive/folders/1gquwpHXgFUfBeq9O45k03OYPQz5v3r2Q?usp=drive_link
+
+30. نظم التجارة الإلكترونية
+https://drive.google.com/drive/folders/16yDk-dWF0B3FIY3SVUjCIw4kAlpG-hBN?usp=drive_link
+
+31. نظم التشغيل
+https://drive.google.com/drive/folders/1O_A1AwUQTKoIOOfcfoI8VGnK8PifDAqE?usp=drive_link
+
+ملاحظة: الجبر الخطي ظاهر في نهاية الصفحة الثانية وبداية الثالثة؛ هذا تداخل بين الصورتين، ويقابله رابط واحد.
